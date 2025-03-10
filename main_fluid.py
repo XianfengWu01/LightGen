@@ -14,12 +14,10 @@ import torchvision.datasets as datasets
 from util.crop import center_crop_arr
 import util.misc as misc
 from util.misc import NativeScalerWithGradNormCount as NativeScaler
-# from util.loader import CachedFolder
 from util.loader import CacheDataset, ImageCaptionDataset # TxtCacheDataset, CacheCaptionDataset, TxtPathDataset, ImageCaptionDataset, LAIONJSONDataset
 
-# from models.vae import AutoencoderKL
+
 from diffusers.models import AutoencoderKL
-# from models import cheat_mar as mar
 from models import fluid_arbitrary
 from models.utils import T5_Embedding
 from engine_fluid import train_one_epoch, evaluate
