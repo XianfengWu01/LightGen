@@ -27,7 +27,7 @@
     ·
     <a href="https://scholar.google.com/citations?user=HX0BfLYAAAAJ&hl=en">Sernam Lim<sup>2, 3</sup><sup>*</sup></a>
     <br />
-    <p> <sub><sup>1</sup> HKUST, <sup>2</sup> Everlyn, <sup>3</sup> UCF, <sup>#</sup>Equal contribution, <sup>*</sup> Corresponding Author</sub></p>
+    <p align="center"> <sub><sup>1</sup> <a href="https://amc.hkust.edu.hk/">HKUST AMC<sup></a>, <sup>2</sup> <a href="https://www.everlyn.ai/">Everlyn AI<sup></a>, <sup>3</sup> <a href="https://www.cs.ucf.edu/">UCF CS<sup></a>, <sup>#</sup>Equal contribution, <sup>*</sup> Corresponding Author</sub></p>
   </p>
 
 <p align="center">
