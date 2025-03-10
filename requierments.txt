@@ -1,0 +1,13 @@
+numpy==1.24.0
+opencv-python
+opencv-python-headless
+timm==0.9.12
+tensorboard==2.10.0
+scipy==1.9.1
+gdown==5.2.0
+einops==0.7.0
+huggingface-hub>=0.26.2
+transformers
+diffusers
+SentencePiece
+wandb
