@@ -1,5 +1,35 @@
 # LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization <br><sub>Official PyTorch Implementation</sub>
 
+#### [<code>HF Checkpoint 🚀</code>](https://huggingface.co/Beckham808/LightGen) | [<code>Technical Report 📝</code>](http://arxiv.org/abs/)  
+
+  <p align="center">
+    LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization
+    <br />
+    <a href="https://maradona10wxf.github.io/">Xianfeng Wu<sup>1, 2</sup><sup>#</sup></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=0bmTpcAAAAAJ&hl=en&oi=ao">Yajing Bai<sup>1, 2</sup><sup>#</sup></a>
+    ·
+    <a href="https://sairlab.org/haozez/">Haoze Zheng<sup>1, 2</sup><sup>#</sup></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=BGUdPBAAAAAJ&hl=zh-CN">Harold (haodong) Chen<sup>1, 2</sup><sup>#</sup></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=Y8zBpcoAAAAJ&hl=zh-CN">Yexin Liu<sup>1, 2</sup><sup>#</sup></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=UhFbFCMAAAAJ&hl=en">Zihao Wang<sup>1, 2</sup></a>
+    ·
+    <a href="">Xuran Ma<sup>1, 2</sup></a>
+    ·
+    <a href="https://scholar.google.cz/citations?user=bM_lvLAAAAAJ&hl=zh-CN">Wenjie Shu<sup>1, 2</sup></a>
+    ·
+    <a href="">Xianzu Wu<sup>1, 2</sup></a>
+    ·
+    <a href="https://leehomyc.github.io/">Harry Yang<sup>1, 2</sup><sup>*</sup></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=HX0BfLYAAAAJ&hl=en">Sernam Lim<sup>2, 3</sup><sup>*</sup></a>
+    <br />
+    <p> <sub><sup>1</sup> HKUST, <sup>2</sup> Everlyn, <sup>3</sup> UCF, <sup>#</sup>Equal contribution, <sup>*</sup> Corresponding Author</sub></p>
+  </p>
+
 <p align="center">
   <img src="demo/demo.png" width="720">
 </p>
