@@ -1,8 +1,11 @@
 # Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization <br><sub>Official PyTorch Implementation</sub>
 
+<p align="center">
+  <img src="demo/demo.png" width="720">
+</p>
+
 This is a PyTorch/GPU implementation of LightGen:
 this repo wants to provide a efficient pre-training pipeline for text-to-image generation on [Fluid](https://arxiv.org/pdf/2410.13863) and [MAR](https://github.com/LTH14/mar)
-
 
 ## Env
 
