@@ -11,7 +11,7 @@
     ·
     <a href="https://sairlab.org/haozez/">Haoze Zheng<sup>1, 2</sup><sup>#</sup></a>
     ·
-    <a href="https://scholar.google.com/citations?user=BGUdPBAAAAAJ&hl=zh-CN">Harold (haodong) Chen<sup>1, 2</sup><sup>#</sup></a>
+    <a href="https://haroldchen19.github.io/">Harold (haodong) Chen<sup>1, 2</sup><sup>#</sup></a>
     ·
     <a href="https://scholar.google.com/citations?user=Y8zBpcoAAAAJ&hl=zh-CN">Yexin Liu<sup>1, 2</sup><sup>#</sup></a>
     ·
