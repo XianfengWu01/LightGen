@@ -34,8 +34,7 @@
   <img src="demo/demo.png" width="720">
 </p>
 
-This is a PyTorch/GPU implementation of [LightGen](https://arxiv.org/pdf/):
-this repo wants to provide a efficient pre-training pipeline for text-to-image generation on [Fluid](https://arxiv.org/pdf/2410.13863) and [MAR](https://github.com/LTH14/mar)
+This is a PyTorch/GPU implementation of [LightGen](https://arxiv.org/pdf/), this repo wants to provide a efficient pre-training pipeline for text-to-image generation based on [Fluid](https://arxiv.org/pdf/2410.13863)/[MAR](https://github.com/LTH14/mar)
 
 ## 🦉 ToDo List
 
