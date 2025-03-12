@@ -1,6 +1,6 @@
 # LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization <br><sub>Official PyTorch Implementation</sub>
 
-#### [<code>HF Checkpoint 🚀</code>](https://huggingface.co/Beckham808/LightGen) | [<code>Technical Report 📝</code>](http://arxiv.org/abs/)  
+#### [<code>HF Checkpoint 🚀</code>](https://huggingface.co/Beckham808/LightGen) | [<code>Technical Report 📝</code>](https://arxiv.org/abs/2503.08619)  
 
   <p align="center">
     LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization
@@ -34,7 +34,7 @@
   <img src="demo/demo.png" width="720">
 </p>
 
-This is a PyTorch/GPU implementation of [LightGen](https://arxiv.org/abs/2503.08619), this repo wants to provide a efficient pre-training pipeline for text-to-image generation based on [Fluid](https://arxiv.org/pdf/2410.13863)/[MAR](https://github.com/LTH14/mar)
+This is a PyTorch/GPU implementation of [LightGen](https://arxiv.org/abs/2503.08619), this repo wants to provide an efficient pre-training pipeline for text-to-image generation based on [Fluid](https://arxiv.org/pdf/2410.13863)/[MAR](https://github.com/LTH14/mar)
 
 ## 🦉 ToDo List
 
