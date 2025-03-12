@@ -34,7 +34,7 @@
   <img src="demo/demo.png" width="720">
 </p>
 
-This is a PyTorch/GPU implementation of [LightGen](https://arxiv.org/pdf/), this repo wants to provide a efficient pre-training pipeline for text-to-image generation based on [Fluid](https://arxiv.org/pdf/2410.13863)/[MAR](https://github.com/LTH14/mar)
+This is a PyTorch/GPU implementation of [LightGen](https://arxiv.org/abs/2503.08619), this repo wants to provide a efficient pre-training pipeline for text-to-image generation based on [Fluid](https://arxiv.org/pdf/2410.13863)/[MAR](https://github.com/LTH14/mar)
 
 ## 🦉 ToDo List
 
@@ -105,3 +105,14 @@ python pipeline_image.py
 ## Acknowledgements
 
 A large portion of codes in this repo is based on [MAR](https://github.com/LTH14/mar).
+
+## Cite
+```
+@article{wu2025lightgen,
+      title={LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization}, 
+      author={Xianfeng Wu and Yajing Bai and Haoze Zheng and Harold Haodong Chen and Yexin Liu and Zihao Wang and Xuran Ma and Wen-Jie Shu and Xianzu Wu and Harry Yang and Ser-Nam Lim},
+      journal={arXiv preprint arXiv:2503.08619},
+      url={https://arxiv.org/abs/2503.08619}, 
+      year={2025},
+}
+```
