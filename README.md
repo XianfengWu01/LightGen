@@ -1,6 +1,6 @@
 # LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization <br><sub>Official PyTorch Implementation</sub>
 
-#### [<code>HF Checkpoint 🚀</code>](https://huggingface.co/Beckham808/LightGen) | [<code>Technical Report 📝</code>](https://arxiv.org/abs/2503.08619)  
+#### [<code>HF Checkpoint 🚀</code>](https://huggingface.co/Beckham808/LightGen) | [<code>Technical Report 📝</code>](https://arxiv.org/pdf/2503.08619)  
 
   <p align="center">
     LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization
