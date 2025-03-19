@@ -106,13 +106,16 @@ python pipeline_image.py
 
 A large portion of codes in this repo is based on [MAR](https://github.com/LTH14/mar).
 
+## ✨ Star History
+
+[![Star History](https://api.star-history.com/svg?repos=XianfengWu01/LightGen)](https://star-history.com/#XianfengWu01/LightGen&Date)
+
 ## Cite
 ```
 @article{wu2025lightgen,
-      title={LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization}, 
-      author={Xianfeng Wu and Yajing Bai and Haoze Zheng and Harold Haodong Chen and Yexin Liu and Zihao Wang and Xuran Ma and Wen-Jie Shu and Xianzu Wu and Harry Yang and Ser-Nam Lim},
-      journal={arXiv preprint arXiv:2503.08619},
-      url={https://arxiv.org/abs/2503.08619}, 
-      year={2025},
+  title={LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization},
+  author={Wu, Xianfeng and Bai, Yajing and Zheng, Haoze and Chen, Harold Haodong and Liu, Yexin and Wang, Zihao and Ma, Xuran and Shu, Wen-Jie and Wu, Xianzu and Yang, Harry and others},
+  journal={arXiv preprint arXiv:2503.08619},
+  year={2025}
 }
 ```
