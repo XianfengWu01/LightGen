@@ -1,6 +1,6 @@
 # LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization <br><sub>Official PyTorch Implementation</sub>
 
-#### [<code>HF Checkpoint 🚀</code>](https://huggingface.co/Beckham808/LightGen) | [<code>Technical Report 📝</code>](https://arxiv.org/pdf/2503.08619)  
+#### [<code>HF Checkpoint 🚀</code>](https://huggingface.co/Beckham808/LightGen) | [<code>Technical Report 📝</code>](https://arxiv.org/pdf/2503.08619) | [<code>机器之心 🤩</code>](https://mp.weixin.qq.com/s/CNZoIxRbOO37rbEgwqLNQg) | [<code>量子位 🤩</code>](https://mp.weixin.qq.com/s/9dyep_QSeJSZh61jCEzjkg) | [<code>HKUST AIS 🤩</code>](https://ais.hkust.edu.hk/whats-happening/news/research-team-led-prof-harry-yang-developed-lightgen-budget-friendly-ai-image)
 
   <p align="center">
     LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization
